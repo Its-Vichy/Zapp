@@ -1,6 +1,7 @@
 from colorama import Fore, init
 from discord.ext import commands, tasks
 import threading, os, random, pyfade
+from colorfull import init; init()
 
 # Put "user_id" -> mention user
 __MESSAGE__ = '''
