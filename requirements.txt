@@ -1,0 +1,4 @@
+colorfull
+colorama
+discord
+pyfade
