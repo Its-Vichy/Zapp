@@ -8,6 +8,13 @@
 
 ----
 
+> # Setup:
+
+```
+pip install -r requirements.txt
+python main.py
+```
+
 <br><br>
 
 > # Warning.
